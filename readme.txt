@@ -1,4 +1,4 @@
-Formulario Registro Yesenia
+Registro Yesenia
 
 Para ver repositorio:
 https://yeseniafullstack.github.io/registro_html/
